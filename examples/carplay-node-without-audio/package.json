@@ -4,9 +4,9 @@
   "private": true,
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.18.2",
+    "express": "^4.21.2",
     "node-carplay": "file:../../",
-    "ws": "^8.14.0"
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "@types/cors": "^2.8.14",
@@ -16,7 +16,7 @@
     "@types/react-dom": "^18.2.7",
     "@types/ws": "^8.5.5",
     "buffer": "^6.0.3",
-    "esbuild": "^0.19.2",
+    "esbuild": "^0.25.0",
     "events": "^3.3.0",
     "jmuxer": "^2.0.5",
     "react": "^18.2.0",
